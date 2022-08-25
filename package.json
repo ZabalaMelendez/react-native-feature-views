@@ -1,0 +1,51 @@
+{
+  "name": "react-native-feature-view",
+  "version": "1.0.5",
+  "description": "manage feature flags and view feature in react native",
+  "main": "index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "./dist"
+  ],
+  "scripts": {
+    "test": "echo \"Information: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZabalaMelendez/react-native-feature-views.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "feature",
+    "flag",
+    "feature",
+    "managements",
+    "featureflags",
+    "ios",
+    "android"
+  ],
+  "author": "Zabala Melendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZabalaMelendez/react-native-feature-views/issues"
+  },
+  "homepage": "https://github.com/ZabalaMelendez/react-native-feature-views#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/jest": "^28.1.6",
+    "@types/node": "^18.6.3",
+    "@types/react": "^18.0.15",
+    "@types/react-native": "^0.69.5",
+    "jest": "^28.1.3",
+    "metro-react-native-babel-preset": "^0.72.1",
+    "ts-jest": "^28.0.7",
+    "ts-node-dev": "^2.0.0",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "react-native": "^0.69.3"
+  }
+}
