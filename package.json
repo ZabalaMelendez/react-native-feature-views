@@ -1,6 +1,6 @@
 {
   "name": "react-native-feature-view",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "manage feature flags and view feature in react native",
   "main": "index.js",
   "types": "./dist/index.d.ts",
